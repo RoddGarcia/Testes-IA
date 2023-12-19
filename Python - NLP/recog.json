@@ -1,0 +1,12 @@
+{
+  "Recog": [
+    {
+      "phrase": "HELLO",
+      "answer": "Hi! Nice to have you here."
+    },
+    {
+      "phrase": "OPEN FIREFOX",
+      "answer": "command::start firefox.exe"
+    }
+  ]
+}
