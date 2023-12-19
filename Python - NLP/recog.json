@@ -7,6 +7,14 @@
     {
       "phrase": "OPEN FIREFOX",
       "answer": "command::start firefox.exe"
+    },
+    {
+      "phrase": "QUIT",
+      "answer": "command::exit"
+    },
+    {
+      "phrase": "OPEN GOOGLE",
+      "answer": "command::start firefox.exe www.google.com"
     }
   ]
 }

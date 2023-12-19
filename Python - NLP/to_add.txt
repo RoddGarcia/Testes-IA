@@ -1,0 +1,4 @@
+{
+  "phrase": "FRIENDSHIP",
+  "answer": "NICE"
+}
